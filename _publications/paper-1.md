@@ -6,5 +6,6 @@ excerpt: 'This paper is about speaker verification and horizontal localisation i
 date: 2019-09-17
 venue: 'ICSR 2019'
 paperurl: 'http://eldentse.github.io/files/ICSR2019_039_final_v3.pdf'
+---
 
 [Download paper here](http://eldentse.github.io/files/ICSR2019_039_final_v3.pdf)
