@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pdf)]
+
 Education
 ======
 * MEng in Engineering Science, University of Oxford, 2018
