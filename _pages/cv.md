@@ -13,8 +13,8 @@ For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pd
 
 Education
 ======
-* MEng in Engineering Science, University of Oxford, 2018
-* PhD in Computer Science, University of Birmingham, 2025 (expected)
+* MEng in Engineering Science, University of Oxford, 2014 - 2018
+* PhD in Computer Science, University of Birmingham, 2020 - present
 
 Work experience
 ======
