@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Sept 2018 - present: PLD Engineer, BAE Systems
+* Sept 2018 - Jul 2021: PLD Engineer, BAE Systems
 
   
 Language
