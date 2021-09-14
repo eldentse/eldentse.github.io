@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Computer Science at University of Birmingham, under the supervision of [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/) and [Prof. Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/). In parallel to my studies, I am a PLD Engineer at BAE Systems.
+I am currently a PhD student in Computer Science at University of Birmingham, under the supervision of [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/) and [Prof. Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/).
 
 My research interests lie within the areas of Machine Learning, Transfer Learning, Representation Learning and Computer Vision.
 
