@@ -6,6 +6,5 @@ authors: 'Linfang Zheng, Ales Leonardis, Tze Ho Elden Tse, Nora Horanyi, Wei Zha
 excerpt: '6D Object Pose Tracking'
 date: 2022
 venue: 'ICRA'
-paperurl: ''
 ---
 
