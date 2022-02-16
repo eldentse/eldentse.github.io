@@ -3,7 +3,7 @@ title: "TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders"
 collection: publications
 authors: 'Linfang Zheng, Ales Leonardis, Tze Ho Elden Tse, Nora Horanyi, Wei Zhang, Hua Chen, Hyung Jin Chang'
 #permalink: /publication/paper_2.md
-excerpt: '6D Object Pose Tracking'
+#excerpt: '6D Object Pose Tracking'
 date: 2022-05-23
 venue: 'ICRA'
 paperurl: 'http://eldentse.github.io/files/ICSR2019_039_final_v3.pdf'
