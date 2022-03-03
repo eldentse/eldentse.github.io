@@ -6,6 +6,6 @@ permalink: /publications/paper-2
 excerpt: 'Linfang Zheng, Ales Leonardis, Tze Ho Elden Tse, Nora Horanyi, Wei Zhang, Hua Chen, Hyung Jin Chang'
 date: 2022-05-23
 venue: 'ICRA'
-paperurl: 'http://eldentse.github.io/files/ICSR2019_039_final_v3.pdf'
+paperurl: 'http://eldentse.github.io/files/ICRA_2022.pdf'
 ---
 
