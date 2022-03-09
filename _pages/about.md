@@ -17,5 +17,5 @@ I originally studied Engineering Science at New College, University of Oxford. M
 
 News
 ======
-* One papr accepted to CVPR 2022
-* One paper accepted to ICRA 2022
+* [03/2022] One paper accepted to CVPR 2022
+* [02/2022] One paper accepted to ICRA 2022
