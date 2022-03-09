@@ -14,3 +14,8 @@ My research interests lie within the areas of Computer Vision and Graph Neural N
 
 I originally studied Engineering Science at New College, University of Oxford. My Master's thesis focused on acoustic perception in mobile robotics using Deep Learning.
 
+
+News
+======
+* One papr accepted to CVPR 2022
+* One paper accepted to ICRA 2022
