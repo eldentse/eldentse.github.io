@@ -6,7 +6,7 @@ permalink: /publications/paper-3
 excerpt: 'Tze Ho Elden Tse, Kwang In Kim, Ales Leonardis, Hyung Jin Chang'
 date: 2022-06-19
 venue: 'CVPR'
-paperurl: 'https://arxiv.org/abs/2204.13062'
+paperurl: 'https://openaccess.thecvf.com/content/CVPR2022/papers/Tse_Collaborative_Learning_for_Hand_and_Object_Reconstruction_With_Attention-Guided_Graph_CVPR_2022_paper.pdf'
 ---
 
 ### Abstract
