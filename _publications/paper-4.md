@@ -1,9 +1,9 @@
 ---
 title: "S$^2$Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning"
 collection: publications
-authors: 'Tze Ho Elden Tse\*, Zhongqun Zhang\*, Kwang In Kim, Ales Leonardis, Hyung Jin Chang'
+authors: 'Tze Ho Elden Tse\*, Zhongqun Zhang\*, Kwang In Kim, Ales Leonardis, Feng Zheng, Hyung Jin Chang'
 permalink: /publications/paper-3
-excerpt: 'Tze Ho Elden Tse\*, Zhongqun Zhang\*, Kwang In Kim, Ales Leonardis, Hyung Jin Chang'
+excerpt: 'Tze Ho Elden Tse\*, Zhongqun Zhang\*, Kwang In Kim, Ales Leonardis, Feng Zheng, Hyung Jin Chang'
 date: 2022-07-04
 venue: 'ECCV'
 paperurl: ''
