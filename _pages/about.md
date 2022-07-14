@@ -20,3 +20,6 @@ News
 * [07/2022] One paper is accepted to ECCV 2022
 * [03/2022] One paper is accepted to CVPR 2022
 * [02/2022] One paper is accepted to ICRA 2022
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=oDMO4ty9grJbf6V352eXstUOCsa1K5aexNbsVGVLzG8&co=1f75a3&cmo=3acc3a&cmn=cc3a70&ct=ffffff'></script>
