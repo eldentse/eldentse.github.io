@@ -18,7 +18,7 @@ I originally studied Engineering Science at New College, University of Oxford. M
 News
 ======
 * [07/2022] One paper is accepted to ECCV 2022 with [project page](https://eldentse.github.io/collab-hand-object/)
-* [03/2022] One paper is accepted to CVPR 2022 with [Project page](https://eldentse.github.io/s2contact/)
+* [03/2022] One paper is accepted to CVPR 2022 with [project page](https://eldentse.github.io/s2contact/)
 * [02/2022] One paper is accepted to ICRA 2022
 
 
