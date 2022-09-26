@@ -17,9 +17,10 @@ I originally studied Engineering Science at New College, University of Oxford. M
 
 News
 ======
-* [07/2022] One paper is accepted to ECCV 2022 with [project page](https://eldentse.github.io/s2contact/)
-* [03/2022] One paper is accepted to CVPR 2022 with [project page](https://eldentse.github.io/collab-hand-object/)
-* [02/2022] One paper is accepted to ICRA 2022
+* [09/2022] I gave a seminar at the [Department of Computer Science & Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/pg/seminars/F22/tse.html).
+* [07/2022] One paper is accepted to ECCV 2022 with [project page](https://eldentse.github.io/s2contact/)!
+* [03/2022] One paper is accepted to CVPR 2022 with [project page](https://eldentse.github.io/collab-hand-object/)!
+* [02/2022] One paper is accepted to ICRA 2022!
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=oDMO4ty9grJbf6V352eXstUOCsa1K5aexNbsVGVLzG8'></script>
