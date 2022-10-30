@@ -17,8 +17,8 @@ I originally studied Engineering Science at New College, University of Oxford. M
 
 News
 ======
-* [10/2022] Invited poster presentations at [Human Body, Hands, and Activities from Egocentric and Multi-view Cameras workshop](https://sites.google.com/view/egocentric-hand-body-activity) HBHA@ECCV22.
-* [10/2022] Invited poster presentations at [Observing and Understanding hands in Action](https://sites.google.com/view/hands2022/home?authuser=0) HANDS@ECCV22.
+* [10/2022] Invited poster presentations at [Human Body, Hands, and Activities from Egocentric and Multi-view Cameras workshop](https://sites.google.com/view/egocentric-hand-body-activity) (HBHA@ECCV22).
+* [10/2022] Invited poster presentations at [Observing and Understanding hands in Action](https://sites.google.com/view/hands2022/home?authuser=0) (HANDS@ECCV22).
 * [09/2022] I gave a seminar at the [Department of Computer Science & Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/pg/seminars/F22/tse.html).
 * [07/2022] One paper is accepted to ECCV 2022 with [project page](https://eldentse.github.io/s2contact/)!
 * [03/2022] One paper is accepted to CVPR 2022 with [project page](https://eldentse.github.io/collab-hand-object/)!
