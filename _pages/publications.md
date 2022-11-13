@@ -22,6 +22,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
       <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
       <!-- <a href="https://xiaoming-zhao.github.io/projects/gmpi/">[webpage]</a> -->
+      <br> This paper focuses on instance-level 6D object pose tracking. In particular, the targeted scenarios are symmetric and textureless object under occlusion. 
     </td>
   </tr>
 
