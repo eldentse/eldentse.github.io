@@ -14,7 +14,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <img src="/images/ECCV2022.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://eldentse.github.io/collab-hand-object/">S$^2$Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning</a>
+      <a href="https://eldentse.github.io/s2contact/">S$^2$Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning</a>
       <br>‪<u>Tze Ho Elden Tse$^*$</u>, Zhongqun Zhang$^*$, Kwang In Kim, Ales Leonardis, Feng Zheng, Hyung Jin Chang
       <br> ECCV, 2022 
       <br> 
@@ -22,7 +22,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
       <!-- <a href="https://www.youtube.com/watch?v=EaarDZlyYzc&t=1s&ab_channel=HyungJinChang">[video]</a> -->
       <a href="https://eldentse.github.io/s2contact/">[webpage]</a>
-      <br> In this paper, we propose a semi-supervised framework that learns contact from monocular videos. Specifically, we  leverage visual and geometric consistency constraints in large-scale datasets for generating pseudo-labels and propose an efficient graph- based network to infer contact.
+      <br> In this paper, we propose a semi-supervised framework that learns contact from monocular videos. 
     </td>
   </tr>
 
