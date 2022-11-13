@@ -16,8 +16,8 @@ My research interests lie within the areas of Computer Vision and Graph Neural N
 I originally studied Engineering Science at New College, University of Oxford. My Master's thesis focused on acoustic perception in mobile robotics using Deep Learning.
 
 
-<h3>News<h3>
-
+News
+-----
 * [10/2022] Invited poster presentations at [Human Body, Hands, and Activities from Egocentric and Multi-view Cameras workshop](https://sites.google.com/view/egocentric-hand-body-activity) (HBHA@ECCV22).
 * [10/2022] Invited poster presentations at [Observing and Understanding Hands in Action workshop](https://sites.google.com/view/hands2022/home?authuser=0) (HANDS@ECCV22).
 * [09/2022] I gave a seminar at the [Department of Computer Science & Engineering, Hong Kong University of Science and Technology](https://cse.hkust.edu.hk/pg/seminars/F22/tse.html).
