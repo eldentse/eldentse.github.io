@@ -11,11 +11,11 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="/images/CVPR2022.png" style=" vertical-align:middle" width="200" />
+      <img src="/images/ECCV2022.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/collab-hand-object/">S$^2$Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning</a>
-      <br>‪<u>Tze Ho Elden Tse</u>, Zhongqun Zhang, Kwang In Kim, Ales Leonardis, Feng Zheng, Hyung Jin Chang
+      <br>‪<u>Tze Ho Elden Tse\*</u>, Zhongqun Zhang\*, Kwang In Kim, Ales Leonardis, Feng Zheng, Hyung Jin Chang
       <br> ECCV, 2022 
       <br> 
       <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610561.pdf">[pdf]</a>
