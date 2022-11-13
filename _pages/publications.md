@@ -28,7 +28,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="images/ICSR2019.png" style=" vertical-align:middle"/>
+      <img src="/images/ICSR2019.png" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">No Need to Scream: Robust Sound-based Speaker Localisation in Challenging Scenarios</a>
