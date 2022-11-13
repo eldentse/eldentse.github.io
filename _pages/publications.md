@@ -11,7 +11,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="/images/ICRA2022.png" style=" vertical-align:middle" width="160" />
+      <img src="/images/ICRA2022.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders</a>
@@ -28,7 +28,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="/images/ICSR2019.png" style=" vertical-align:middle" width="160" />
+      <img src="/images/ICSR2019.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">No Need to Scream: Robust Sound-based Speaker Localisation in Challenging Scenarios</a>
