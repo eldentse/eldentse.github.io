@@ -11,6 +11,24 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/CVPR2022.png" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/collab-hand-object/">Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution</a>
+      <br>‪<u>Tze Ho Elden Tse</u>, Kwang In Kim, Ales Leonardis, Hyung Jin Chang
+      <br> CVPR, 2022 
+      <br> 
+      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Tse_Collaborative_Learning_for_Hand_and_Object_Reconstruction_With_Attention-Guided_Graph_CVPR_2022_paper.pdf">[pdf]</a>
+      <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
+      <!-- <a href="https://www.youtube.com/watch?v=EaarDZlyYzc&t=1s&ab_channel=HyungJinChang">[video]</a> -->
+      <a href="https://eldentse.github.io/collab-hand-object/">[webpage]</a>
+      <br> This paper focuses on 3D reconstruction of hand and object from a single RGB image. The proposed framework is based on collaborative learning. 
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/ICRA2022.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
