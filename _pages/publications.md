@@ -14,7 +14,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <img src="images/2022-eccv-gmpi.png" style=" vertical-align:middle"/>
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://xiaoming-zhao.github.io/projects/gmpi/">Test</a>
+      <a href="https://xiaoming-zhao.github.io/projects/gmpi/">No Need to Scream: Robust Sound-based Speaker Localisation in Challenging Scenarios</a>
       <br>Test, ‪<u>Test</u>,Test
       <br> ECCV, 2022 
       <br> 
@@ -22,6 +22,23 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <a href="https://github.com/apple/ml-gmpi">[code]</a>
       <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
       <a href="https://xiaoming-zhao.github.io/projects/gmpi/">[webpage]</a>
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="images/ICSR2019.png" style=" vertical-align:middle"/>
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">No Need to Scream: Robust Sound-based Speaker Localisation in Challenging Scenarios</a>
+      <br>‪<u>Tze Ho Elden Tse</u>, D. De Martini and L. Marchegiani
+      <br> ICSR, 2019
+      <br> 
+      <a href="http://eldentse.github.io/files/ICSR2019_039_final_v3.pdf">[pdf]</a>
+      <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
+      <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
+      <!-- <a href="https://xiaoming-zhao.github.io/projects/gmpi/">[webpage]</a> -->
     </td>
   </tr>
 
