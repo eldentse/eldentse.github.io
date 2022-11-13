@@ -5,19 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Below, \* represents equal contribution.
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-
 <h2>Research</h2>
-I'm broadly interested in computer vision and machine learning. Much of my research is about 3D reconstruction, graph neural networks and hand-object interaction.
+I'm broadly interested in computer vision and machine learning. Much of my research is about 3D reconstruction, graph neural networks, hand-object interaction and robotics.
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
