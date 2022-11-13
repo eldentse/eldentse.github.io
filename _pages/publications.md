@@ -39,9 +39,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
       <!-- <a href="https://youtu.be/M5OU_fiD3Jk">[video]</a> -->
       <!-- <a href="https://xiaoming-zhao.github.io/projects/gmpi/">[webpage]</a> -->
-      <p>
-      Master project at Oxford Robotics Institute.
-      <p>
+      <br> Master project at Oxford Robotics Institute.
     </td>
   </tr>
 
