@@ -11,7 +11,7 @@ redirect_from:
 
 For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pdf)]
 
-Education
+<!-- Education
 ======
 * PhD in Computer Science, University of Birmingham, 2020 - present
 * MEng in Engineering Science, University of Oxford, 2014 - 2018
@@ -24,5 +24,5 @@ Work experience
   
 Language
 ======
-* English (native), Cantonese (native), Mandarin (intermediate)
+* English (native), Cantonese (native), Mandarin (intermediate) -->
 

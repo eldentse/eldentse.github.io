@@ -15,6 +15,7 @@ My research interests lie within the areas of Computer Vision and Graph Neural N
 
 I originally studied Engineering Science at New College, University of Oxford. My Master's thesis focused on acoustic perception in mobile robotics using Deep Learning.
 
+For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pdf)]
 
 News
 -----
