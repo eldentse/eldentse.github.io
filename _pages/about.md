@@ -27,9 +27,6 @@ News
 * [02/2022] One paper is accepted to ICRA 2022!
 
 
-
-
-
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=oDMO4ty9grJbf6V352eXstUOCsa1K5aexNbsVGVLzG8'></script> -->
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=oDMO4ty9grJbf6V352eXstUOCsa1K5aexNbsVGVLzG8'></script>
 
