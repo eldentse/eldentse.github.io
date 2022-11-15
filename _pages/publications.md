@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2>Research</h2>
-I'm broadly interested in computer vision and machine learning. Much of my research is about 3D reconstruction, graph neural networks, hand-object interaction and robotics.
+I'm broadly interested in computer vision and machine learning. Much of my research is about 3D vision, graph neural networks, hand-object interaction and robotics.
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
