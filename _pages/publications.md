@@ -11,6 +11,21 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/CVPR2023.jpeg" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/s2contact/">Mutual Information-Based Temporal Difference Learning for Human Pose Estimation in Video</a>
+      <br>‪Runyang Feng, Yixing Gao, Xueqing Ma, <u>Tze Ho Elden Tse$^*$</u>, Hyung Jin Chang
+      <br> CVPR, 2023 
+      <br> 
+      <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610561.pdf">[pdf]</a>
+      <br> In this paper, we present a multi-frame human pose estimation framework, which employs temporal differences across frames to model dynamic contexts.
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/ECCV2022.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
