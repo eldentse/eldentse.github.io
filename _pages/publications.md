@@ -19,6 +19,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> CVPR, 2023 
       <br> 
       <a href="https://arxiv.org/pdf/2303.08475.pdf">[pdf]</a>
+      <a href="https://frunyang.github.io/TDMI/">[webpage]</a>
       <br> In this paper, we present a multi-frame human pose estimation framework, which employs temporal differences across frames to model dynamic contexts.
     </td>
   </tr>
