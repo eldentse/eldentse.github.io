@@ -19,6 +19,7 @@ For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pd
 
 News
 -----
+* [07/2023] Two papers are accepted to ICCV 2023!
 * [03/2023] I completed a 4-month research internship at Google!
 * [03/2023] One paper is accepted to CVPR 2023!
 * [10/2022] Invited poster presentations at [Human Body, Hands, and Activities from Egocentric and Multi-view Cameras workshop](https://sites.google.com/view/egocentric-hand-body-activity) (HBHA@ECCV22).
