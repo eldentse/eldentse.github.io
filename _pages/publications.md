@@ -11,6 +11,22 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/ICCV2023_RY.jpeg" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/s2contact/"></a>DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation
+      <br>‪Runyang Feng, Yixing Gao, <u>Tze Ho Elden Tse</u>, Xueqing Ma, Hyung Jin Chang
+      <br> ICCV, 2023 
+      <br> 
+      <a href="">[pdf]</a>
+      <a href="">[webpage]</a>
+      <br> In this paper, we present a novel diffusion architecture that formulates video-based human pose estimation as a conditional heatmap generation problem.
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/CVPR2023.jpeg" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
