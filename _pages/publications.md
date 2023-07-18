@@ -20,7 +20,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> 
       <a href="">[pdf]</a>
       <a href="">[webpage]</a>
-      <br> In this paper, we present a spectral graph-based transformer framework that reconstructs two high fidelity hands from multi-view RGB images.
+      <br> We present a spectral graph-based Transformer framework that reconstructs two high fidelity hands from multi-view RGB images. The proposed framework combines ideas from spectral graph theory and Transformers.
     </td>
   </tr>
 
