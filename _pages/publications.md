@@ -11,7 +11,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="/images/ICCV2023.svg" style=" vertical-align:middle" width="200" />
+      <img src="/images/ICCV2023.jpeg" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/"></a>Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images 
