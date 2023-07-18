@@ -15,7 +15,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/s2contact/"></a>DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation
-      <br>‪Runyang Feng, Yixing Gao, <u>Tze Ho Elden Tse</u>, Xueqing Ma, Hyung Jin Chang
+      <br>‪Runyang Feng, <u>Tze Ho Elden Tse</u>, Yixing Gao, Xueqing Ma, Hyung Jin Chang
       <br> ICCV, 2023 
       <br> 
       <a href="">[pdf]</a>
