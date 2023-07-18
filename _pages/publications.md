@@ -11,6 +11,22 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/ICCV2023.svg" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/"></a>Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images 
+      <br>‪<u>Tze Ho Elden Tse</u>, Franziska Mueller, Bardia Doosti, Zhengyang Shen, Mingsong Dou, Danhang Tang, Yinda Zhang, Thabo Beeler, Hyung Jin Chang, Sasa Petrovic, Jonathan Taylor
+      <br> ICCV, 2023 
+      <br> 
+      <a href="">[pdf]</a>
+      <a href="">[webpage]</a>
+      <br> In this paper, we present a spectral graph-based transformer framework that reconstructs two high fidelity hands from multi-view RGB images.
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/ICCV2023_RY.jpeg" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
@@ -20,7 +36,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> 
       <a href="">[pdf]</a>
       <a href="">[webpage]</a>
-      <br> In this paper, we present a novel diffusion architecture that formulates video-based human pose estimation as a conditional heatmap generation problem.
+      <br> In this paper, we present a diffusion architecture that formulates video-based human pose estimation as a conditional heatmap generation problem.
     </td>
   </tr>
 
