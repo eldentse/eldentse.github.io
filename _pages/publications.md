@@ -30,7 +30,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <img src="/images/CVPR2023.jpeg" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://eldentse.github.io/s2contact/">Mutual Information-based Temporal Difference Learning for Human Pose Estimation in Video</a>
+      <a href="https://frunyang.github.io/TDMI/">Mutual Information-based Temporal Difference Learning for Human Pose Estimation in Video</a>
       <br>‪Runyang Feng, Yixing Gao, Xueqing Ma, <u>Tze Ho Elden Tse</u>, Hyung Jin Chang
       <br> CVPR, 2023 
       <br> 
