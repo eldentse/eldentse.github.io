@@ -14,7 +14,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <img src="/images/ICCV2023.jpeg" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://eldentse.github.io/publications/"></a>Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images 
+      <a href="https://eldentse.github.io/publications/">Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images </a>
       <br>‪<u>Tze Ho Elden Tse</u>, Franziska Mueller, Bardia Doosti, Zhengyang Shen, Mingsong Dou, Danhang Tang, Yinda Zhang, Thabo Beeler, Hyung Jin Chang, Sasa Petrovic, Jonathan Taylor
       <br> ICCV, 2023 
       <br> 
@@ -30,13 +30,13 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <img src="/images/ICCV2023_RY.jpeg" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://eldentse.github.io/publications/"></a>DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation
+      <a href="https://eldentse.github.io/publications/">DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation</a>
       <br>‪Runyang Feng, Yixing Gao, <u>Tze Ho Elden Tse</u>, Xueqing Ma, Hyung Jin Chang
       <br> ICCV, 2023 
       <br> 
       <a href="">[pdf]</a>
       <a href="">[webpage]</a>
-      <br> In this paper, we present a diffusion architecture that formulates video-based human pose estimation as a conditional heatmap generation problem.
+      <br> We present a diffusion architecture that formulates video-based human pose estimation as a conditional heatmap generation problem.
     </td>
   </tr>
 
@@ -52,7 +52,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> 
       <a href="https://arxiv.org/pdf/2303.08475.pdf">[pdf]</a>
       <a href="https://frunyang.github.io/TDMI/">[webpage]</a>
-      <br> In this paper, we present a multi-frame human pose estimation framework, which employs temporal differences across frames to model dynamic contexts.
+      <br> We present a multi-frame human pose estimation framework, which employs temporal differences across frames to model dynamic contexts.
     </td>
   </tr>
 
@@ -70,7 +70,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
       <!-- <a href="https://www.youtube.com/watch?v=EaarDZlyYzc&t=1s&ab_channel=HyungJinChang">[video]</a> -->
       <a href="https://eldentse.github.io/s2contact/">[webpage]</a>
-      <br> In this paper, we propose a semi-supervised framework that learns contact from monocular videos. 
+      <br> We propose a semi-supervised framework that learns contact from monocular videos. 
     </td>
   </tr>
 
@@ -88,7 +88,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <!-- <a href="https://github.com/apple/ml-gmpi">[code]</a> -->
       <!-- <a href="https://www.youtube.com/watch?v=EaarDZlyYzc&t=1s&ab_channel=HyungJinChang">[video]</a> -->
       <a href="https://eldentse.github.io/collab-hand-object/">[webpage]</a>
-      <br> This paper focuses on 3D reconstruction of hand and object from a single RGB image. The proposed framework is based on collaborative learning. 
+      <br> We propose a collaborative learning framework which jointly reconstructs hand and object from a single RGB image.
     </td>
   </tr>
 
