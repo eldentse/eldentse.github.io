@@ -15,7 +15,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images </a>
-      <br>‪<u>Tze Ho Elden Tse</u>, Franziska Mueller, Bardia Doosti, Zhengyang Shen, Mingsong Dou, Danhang Tang, Yinda Zhang, Thabo Beeler, Hyung Jin Chang, Sasa Petrovic, Jonathan Taylor
+      <br>‪<b>Tze Ho Elden Tse</b>, Franziska Mueller, Bardia Doosti, Zhengyang Shen, Mingsong Dou, Danhang Tang, Yinda Zhang, Thabo Beeler, Hyung Jin Chang, Sasa Petrovic, Jonathan Taylor
       <br> ICCV, 2023 
       <br> 
       <a href="">[pdf]</a>
@@ -31,7 +31,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation</a>
-      <br>‪Runyang Feng, Yixing Gao, <u>Tze Ho Elden Tse</u>, Xueqing Ma, Hyung Jin Chang
+      <br>‪Runyang Feng, Yixing Gao, <b>Tze Ho Elden Tse</b>, Xueqing Ma, Hyung Jin Chang
       <br> ICCV, 2023 
       <br> 
       <a href="">[pdf]</a>
@@ -47,7 +47,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://frunyang.github.io/TDMI/">Mutual Information-based Temporal Difference Learning for Human Pose Estimation in Video</a>
-      <br>‪Runyang Feng, Yixing Gao, Xueqing Ma, <u>Tze Ho Elden Tse</u>, Hyung Jin Chang
+      <br>‪Runyang Feng, Yixing Gao, Xueqing Ma, <b>Tze Ho Elden Tse</b>, Hyung Jin Chang
       <br> CVPR, 2023 
       <br> 
       <a href="https://arxiv.org/pdf/2303.08475.pdf">[pdf]</a>
@@ -63,7 +63,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/s2contact/">S$^2$Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning</a>
-      <br>‪<u>Tze Ho Elden Tse$^*$</u>, Zhongqun Zhang$^*$, Kwang In Kim, Ales Leonardis, Feng Zheng, Hyung Jin Chang
+      <br>‪<b>Tze Ho Elden Tse$^*$</b>, Zhongqun Zhang$^*$, Kwang In Kim, Ales Leonardis, Feng Zheng, Hyung Jin Chang
       <br> ECCV, 2022 
       <br> 
       <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610561.pdf">[pdf]</a>
@@ -81,7 +81,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/collab-hand-object/">Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution</a>
-      <br>‪<u>Tze Ho Elden Tse</u>, Kwang In Kim, Ales Leonardis, Hyung Jin Chang
+      <br>‪<b>Tze Ho Elden Tse</b>, Kwang In Kim, Ales Leonardis, Hyung Jin Chang
       <br> CVPR, 2022 
       <br> 
       <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Tse_Collaborative_Learning_for_Hand_and_Object_Reconstruction_With_Attention-Guided_Graph_CVPR_2022_paper.pdf">[pdf]</a>
@@ -99,7 +99,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">TP-AE: Temporally Primed 6D Object Pose Tracking with Auto-Encoders</a>
-      <br>Linfang Zheng, Ales Leonardis, ‪<u>Tze Ho Elden Tse</u>, Nora Horanyi, Wei Zhang, Hua Chen, Hyung Jin Chang
+      <br>Linfang Zheng, Ales Leonardis, ‪<b>Tze Ho Elden Tse</b>, Nora Horanyi, Wei Zhang, Hua Chen, Hyung Jin Chang
       <br> ICRA, 2022 
       <br> 
       <a href="http://eldentse.github.io/files/ICRA_2022.pdf">[pdf]</a>
@@ -117,7 +117,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">No Need to Scream: Robust Sound-based Speaker Localisation in Challenging Scenarios</a>
-      <br>‪<u>Tze Ho Elden Tse</u>, D. De Martini and L. Marchegiani
+      <br>‪<b>Tze Ho Elden Tse</b>, D. De Martini and L. Marchegiani
       <br> ICSR, 2019
       <br> 
       <a href="http://eldentse.github.io/files/ICSR2019_039_final_v3.pdf">[pdf]</a>
