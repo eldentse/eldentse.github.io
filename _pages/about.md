@@ -31,5 +31,5 @@ News
 
 
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=oDMO4ty9grJbf6V352eXstUOCsa1K5aexNbsVGVLzG8'></script> -->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=oDMO4ty9grJbf6V352eXstUOCsa1K5aexNbsVGVLzG8'></script>
-
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=oDMO4ty9grJbf6V352eXstUOCsa1K5aexNbsVGVLzG8'></script> -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=tt&d=oDMO4ty9grJbf6V352eXstUOCsa1K5aexNbsVGVLzG8&co=ffffff&cmo=ef0a89&cmn=16ef16&ct=808080'></script>
