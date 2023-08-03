@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- <h3>About Me</h3> -->
-I am currently a PhD student in Computer Science at University of Birmingham, under the supervision of [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/), [Dr. Kwang In Kim](https://sites.google.com/view/kimki) and [Prof. Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/).
+I am currently a PhD student in Computer Science at University of Birmingham, under the supervision of [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/), [Dr. Kwang In Kim](https://sites.google.com/view/kimki) and [Prof. Aleš Leonardis](https://www.cs.bham.ac.uk/~leonarda/).
 
 My research interests lie within the areas of Computer Vision and Graph Neural Networks. I am particularly interested in 3D computer vision, especially perceiving everyday's human interaction with objects.
 
