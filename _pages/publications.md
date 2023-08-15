@@ -15,11 +15,12 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images </a>
-      <br>‪<b>Tze Ho Elden Tse</b>, Franziska Mueller, Bardia Doosti, Zhengyang Shen, Mingsong Dou, Danhang Tang, Yinda Zhang, Thabo Beeler, Hyung Jin Chang, Sasa Petrovic, Jonathan Taylor
+      <br>‪<b>Tze Ho Elden Tse</b>, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti
       <br> ICCV, 2023 
       <br> 
       <a href="">[pdf]</a>
       <a href="">[webpage]</a>
+      <a href="https://github.com/eldentse/Spectral-Graphormer">[code]</a>
       <br> We present a spectral graph-based Transformer framework that reconstructs two high fidelity hands from multi-view RGB images. The proposed framework combines ideas from spectral graph theory and Transformers.
     </td>
   </tr>
