@@ -20,7 +20,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> 
       <a href="">[pdf]</a>
       <a href="">[webpage]</a>
-      <a href="https://github.com/eldentse/Spectral-Graphormer">[code]</a>
+      <a href="https://github.com/eldentse/Spectral-Graphormer">[code]</a> (coming soon)
       <br> We present a spectral graph-based Transformer framework that reconstructs two high fidelity hands from multi-view RGB images. The proposed framework combines ideas from spectral graph theory and Transformers.
     </td>
   </tr>
@@ -36,7 +36,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> ICCV, 2023 
       <br> 
       <a href="">[pdf]</a>
-      <a href="">[webpage]</a>
+      <a href="">[webpage]</a> (coming soon)
       <br> We present a diffusion architecture that formulates video-based human pose estimation as a conditional heatmap generation problem.
     </td>
   </tr>
