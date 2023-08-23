@@ -18,7 +18,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br>‪<b>Tze Ho Elden Tse</b>, Franziska Mueller, Zhengyang Shen, Danhang Tang, Thabo Beeler, Mingsong Dou, Yinda Zhang, Sasa Petrovic, Hyung Jin Chang, Jonathan Taylor, Bardia Doosti
       <br> ICCV, 2023 
       <br> 
-      <a href="">[pdf]</a>
+      <a href="https://arxiv.org/pdf/2308.11015.pdf">[pdf]</a>
       <a href="">[webpage]</a>
       <a href="https://github.com/eldentse/Spectral-Graphormer">[code]</a> (coming soon)
       <br> We present a spectral graph-based Transformer framework that reconstructs two high fidelity hands from multi-view RGB images. The proposed framework combines ideas from spectral graph theory and Transformers.
@@ -35,7 +35,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br>‪Runyang Feng, Yixing Gao, <b>Tze Ho Elden Tse</b>, Xueqing Ma, Hyung Jin Chang
       <br> ICCV, 2023 
       <br> 
-      <a href="">[pdf]</a>
+      <a href="https://arxiv.org/pdf/2307.16687.pdf">[pdf]</a>
       <a href="">[webpage]</a> (coming soon)
       <br> We present a diffusion architecture that formulates video-based human pose estimation as a conditional heatmap generation problem.
     </td>
