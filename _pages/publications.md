@@ -19,8 +19,8 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> ICCV, 2023 
       <br> 
       <a href="https://arxiv.org/pdf/2308.11015.pdf">[pdf]</a>
-      <a href="">[webpage]</a>
-      <a href="https://github.com/eldentse/Spectral-Graphormer">[code]</a> (coming soon)
+      <a href="https://eldentse.github.io/Spectral-Graphormer/">[webpage]</a>
+      <a href="https://github.com/eldentse/Spectral-Graphormer">[code (coming soon)]</a>
       <br> We present a spectral graph-based Transformer framework that reconstructs two high fidelity hands from multi-view RGB images. The proposed framework combines ideas from spectral graph theory and Transformers.
     </td>
   </tr>
