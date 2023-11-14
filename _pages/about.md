@@ -19,6 +19,8 @@ For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pd
 
 News
 -----
+* [10/2023] I gave a lecture on 3D Computer Vision at the [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/).
+* [10/2023] Invited poster presentations at [Observing and Understanding Hands in Action workshop](https://sites.google.com/view/hands2023/home?authuser=0) (HANDS@ICCV2023).
 * [07/2023] Two papers are accepted to ICCV 2023!
 * [03/2023] I completed a 4-month research internship at Google!
 * [03/2023] One paper is accepted to CVPR 2023!
