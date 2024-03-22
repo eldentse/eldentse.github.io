@@ -11,6 +11,22 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/CVPR2024.png" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement</a>
+      <br>‪Linfang Zheng, <b>Tze Ho Elden Tse</b>, Chen Wang, Yinghan Sun, Hua Chen, Ales Leonardis, Wei Zhang, Hyung Jin Chang
+      <br> CVPR, 2024
+      <br> 
+      <a href="">[pdf]</a>
+      <a href="">[code]</a>
+      <br> We introduce a novel framework for category-level object pose refinement which integrates an HS-layer and learnable affine transformations to enhance the extraction and alignment of geometric information.
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/ICCV2023.jpeg" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
@@ -20,7 +36,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> 
       <a href="https://arxiv.org/pdf/2308.11015.pdf">[pdf]</a>
       <a href="https://eldentse.github.io/Spectral-Graphormer/">[webpage]</a>
-      <a href="https://github.com/google-research/google-research/tree/master/spectral_graphormer">[code (coming soon)]</a>
+      <a href="https://github.com/google-research/google-research/tree/master/spectral_graphormer">[code]</a>
       <br> We present a spectral graph-based Transformer framework that reconstructs two high fidelity hands from multi-view RGB images. The proposed framework combines ideas from spectral graph theory and Transformers.
     </td>
   </tr>
@@ -36,7 +52,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> ICCV, 2023 
       <br> 
       <a href="https://arxiv.org/pdf/2307.16687.pdf">[pdf]</a>
-      <a href="">[webpage]</a> (coming soon)
+      <a href="">[webpage]</a> 
       <br> We present a diffusion architecture that formulates video-based human pose estimation as a conditional heatmap generation problem.
     </td>
   </tr>
