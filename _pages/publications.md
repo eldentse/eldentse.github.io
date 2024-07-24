@@ -18,8 +18,8 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br>‪Linfang Zheng, <b>Tze Ho Elden Tse</b>, Chen Wang, Yinghan Sun, Hua Chen, Ales Leonardis, Wei Zhang, Hyung Jin Chang
       <br> CVPR, 2024
       <br> 
-      <a href="">[pdf]</a>
-      <a href="">[code]</a>
+      <a href="https://arxiv.org/pdf/2404.11139">[pdf]</a>
+      <a href="https://github.com/Lynne-Zheng-Linfang/GeoReF">[code]</a>
       <br> We introduce a novel framework for category-level object pose refinement which integrates an HS-layer and learnable affine transformations to enhance the extraction and alignment of geometric information.
     </td>
   </tr>
