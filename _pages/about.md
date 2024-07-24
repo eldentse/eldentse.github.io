@@ -9,16 +9,22 @@ redirect_from:
 ---
 
 <!-- <h3>About Me</h3> -->
-I am currently a PhD student in Computer Science at University of Birmingham, under the supervision of [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/), [Dr. Kwang In Kim](https://sites.google.com/view/kimki) and [Prof. Aleš Leonardis](https://www.cs.bham.ac.uk/~leonarda/).
+I am currently a Postdoctoral Research Fellow at National University of Singapore, working on 3D scene understanding with humans under the mentorship of [Angela Yao](https://www.comp.nus.edu.sg/~ayao/). I previously obtained my PhD at University of Birmingham, under the supervision of [Hyung Jin Chang](https://hyungjinchang.wordpress.com/), [Kwang In Kim](https://sites.google.com/view/kimki) and [Aleš Leonardis](https://www.cs.bham.ac.uk/~leonarda/). My research focused on 3D human pose and body shape estimation from images. During my PhD, I have also interned at Google, hosted by [Bardia Doosti](https://bardiadoosti.github.io/) and [Danhang Tang](https://scholar.google.com/citations?user=9uxs6G4AAAAJ&hl=en). 
 
-My research interests lie within the areas of Computer Vision and Graph Neural Networks. I am particularly interested in 3D computer vision, especially perceiving everyday's human interaction with objects.
+<!-- PhD student in Computer Science at University of Birmingham, under the supervision of [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/), [Dr. Kwang In Kim](https://sites.google.com/view/kimki) and [Prof. Aleš Leonardis](https://www.cs.bham.ac.uk/~leonarda/). -->
 
-I originally studied Engineering Science at New College, University of Oxford. My Master's thesis focused on acoustic perception in mobile robotics using Deep Learning.
+<!-- My research interests lie within the areas of Computer Vision and Graph Neural Networks. I am particularly interested in 3D computer vision, especially perceiving everyday's human interaction with objects. -->
+
+My research interests lie at the intersection of computer vision and graphics. I am particularly interested in building a system that can capture and preceive how humans interact with the dynamic 3D world from everyday photographs and videos. 
+
+I originally studied Engineering Science at New College, University of Oxford. My Master's thesis focused on acoustic perception in mobile robotics at [Oxford Robotics Institute](https://ori.ox.ac.uk/).
 
 For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pdf)]. Last updated on 02/2024.
 
 News
 -----
+* [05/2024] I successfully defended my PhD! 
+* [04/2024] I will be co-organising [HANDS](https://hands-workshop.org/) workshop at ECCV 2024.
 * [03/2024] One paper is accepted to CVPR 2024!
 * [10/2023] I gave a talk on 3D Computer Vision at the [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/).
 * [10/2023] Invited poster presentations at [Observing and Understanding Hands in Action workshop](https://sites.google.com/view/hands2023/home?authuser=0) (HANDS@ICCV2023).
