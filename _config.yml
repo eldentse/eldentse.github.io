@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Elden Tse"
 title_separator          : "-"
 name                     : &name "Elden Tse"
-description              : &description "PhD student at University of Birmingham"
+description              : &description "Postdoctoral Research Fellow at National University of Singapore"
 url                      : https://eldentse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eldentse.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Elden Tse"
   avatar           : "profile_cropped.jpeg"
-  bio              : "PhD student at University of Birmingham"
-  location         : "United Kingdom"
+  bio              : "Postdoctoral Research Fellow at National University of Singapore"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KAOah3QAAAAJ&hl=zh-TW&oi=ao"
