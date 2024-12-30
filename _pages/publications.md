@@ -11,6 +11,21 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/AAAI2025.png" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics</a>
+      <br>‪<b>Tze Ho Elden Tse</b>, Runyang Feng, Linfang Zheng, Jiho Park, Yixing Gao, Jihie Kim, Ales Leonardis, Hyung Jin Chang
+      <br> AAAI, 2025
+      <br> 
+      <a href="">[pdf]</a>
+      <br> We introduce a collaborative learning framework for 3D hand-object reconstruction and compositional action recognition using superquadrics.
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/CVPR2024.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">

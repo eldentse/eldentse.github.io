@@ -23,6 +23,7 @@ For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pd
 
 News
 -----
+* [12/2024] One paper is accepted to AAAI 2025!
 * [05/2024] I successfully defended my PhD! 
 * [04/2024] I will be co-organising [HANDS](https://hands-workshop.org/) workshop at ECCV 2024.
 * [03/2024] One paper is accepted to CVPR 2024!
