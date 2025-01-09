@@ -11,6 +11,23 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/WHMR.png" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">Humans as Checkerboards: Calibrating Camera Motion Scale
+for World-Coordinate Human Mesh Recovery</a>
+      <br>‪Fengyuan Yang, Kerui Gu, Ha Linh Nguyen, <b>Tze Ho Elden Tse</b>, Angela Yao
+      <br> arXiv, 2024
+      <br> 
+      <a href="https://arxiv.org/pdf/2407.00574">[pdf]</a>
+      <a href="https://martayang.github.io/HAC/">[webpage]</a>
+      <br> We present an optimization-free scale calibration framework for global human motion recovery. 
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/AAAI2025.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
