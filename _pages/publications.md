@@ -11,6 +11,23 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/das3r_davis.gif" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction</a>
+      <br>‪Kai Xu, <b>Tze Ho Elden Tse</b>, Jizong Peng, Angela Yao
+      <br> arXiv, 2024
+      <br> 
+      <a href="https://arxiv.org/pdf/2412.19584">[pdf]</a>
+      <a href="https://github.com/kai422/das3r?tab=readme-ov-file">[code]</a>
+      <a href="https://kai422.github.io/DAS3R/">[webpage]</a>
+      <br> We present a novel framework for scene decomposition and static background reconstruction from unposed videos.
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/WHMR.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
