@@ -52,7 +52,7 @@ for World-Coordinate Human Mesh Recovery</a>
       <br>‪<b>Tze Ho Elden Tse</b>, Runyang Feng, Linfang Zheng, Jiho Park, Yixing Gao, Jihie Kim, Ales Leonardis, Hyung Jin Chang
       <br> AAAI, 2025
       <br> 
-      <a href="">[pdf]</a>
+      <a href="https://arxiv.org/pdf/2501.07100">[pdf]</a>
       <br> We introduce a collaborative learning framework for 3D hand-object reconstruction and compositional action recognition using superquadrics.
     </td>
   </tr>
