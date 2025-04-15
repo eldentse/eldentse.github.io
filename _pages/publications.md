@@ -16,7 +16,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds</a>
       <br>‪Jizong Peng$^*$, <b>Tze Ho Elden Tse$^*$</b>, Kai Xu, Wenchao Gao, Angela Yao
-      <br> arXiv, 2024
+      <br> arXiv, 2025
       <br> 
       <a href="https://arxiv.org/pdf/2504.09129">[pdf]</a>
       <a href="">[code]</a>
