@@ -11,6 +11,24 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/overview-new-bigger-text-et-cropped.jpg" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds</a>
+      <br>‪Jizong Peng$^*$, <b>Tze Ho Elden Tse$^*$</b>, Kai Xu, Wenchao Gao, Angela Yao
+      <br> arXiv, 2024
+      <br> 
+      <a href="https://arxiv.org/pdf/2504.09129">[pdf]</a>
+      <a href="">[code]</a>
+      <a href="">[webpage]</a>
+      <br> We present a contrained optimization approach for training Gaussian Splatting without COLMAP from multi-modal camera rig.
+    </td>
+  </tr>
+
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/das3r_davis.gif" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
