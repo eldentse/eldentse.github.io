@@ -11,7 +11,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="/images/paper_challenge_cropped.pdf" style=" vertical-align:middle" width="200" />
+      <img src="/images/visual_intention.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">Visual Intention Grounding for Egocentric Assistants</a>
