@@ -11,6 +11,25 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/paper_challenge_cropped.pdf" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">Visual Intention Grounding for Egocentric Assistants</a>
+      <br>‪Pengzhan Sun, Junbin Xiao, <b>Tze Ho Elden Tse</b>, Yicong Li, Arjun Akula, Angela Yao
+      <br> arXiv, 2025
+      <br> 
+      <a href="https://arxiv.org/pdf/2504.13621">[pdf]</a>
+      <a href="">[code]</a>
+      <a href="">[webpage]</a>
+      <br> We introduce the first dataset, named EgoIntention, for egocentric visual intention grounding. We also propose Reason-to-Grounding (RoG) instruction tuning, a model-agnostic training approach to enhance
+     MLLMs for egocentric intention grounding.
+    </td>
+  </tr>
+
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/overview-new-bigger-text-et-cropped.jpg" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
