@@ -11,12 +11,29 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/fig5_stage1_samples.jpg" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction</a>
+      <br>‪Yiyao Huang, Zhedong Zheng, Ziwei Yu, Yaxiong Wang, <b>Tze Ho Elden Tse</b>, Angela Yao
+      <br> arXiv, 2025
+      <br> 
+      <a href="https://arxiv.org/pdf/2506.00953?">[pdf]</a>
+      <a href="">[code]</a>
+      <a href="">[webpage]</a>
+      <br> We propose a new Text-Instructed Generation and Refinement (TIGeR) framework for template-free hand and object reconstruction.  </td>
+  </tr>
+
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/visual_intention.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">Visual Intention Grounding for Egocentric Assistants</a>
       <br>‪Pengzhan Sun, Junbin Xiao, <b>Tze Ho Elden Tse</b>, Yicong Li, Arjun Akula, Angela Yao
-      <br> arXiv, 2025
+      <br> ICCV, 2025
       <br> 
       <a href="https://arxiv.org/pdf/2504.13621">[pdf]</a>
       <a href="">[code]</a>
@@ -35,7 +52,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds</a>
       <br>‪Jizong Peng$^*$, <b>Tze Ho Elden Tse$^*$</b>, Kai Xu, Wenchao Gao, Angela Yao
-      <br> arXiv, 2025
+      <br> ICCV, 2025
       <br> 
       <a href="https://arxiv.org/pdf/2504.09129">[pdf]</a>
       <a href="">[code]</a>
@@ -71,7 +88,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <a href="https://eldentse.github.io/publications/">Humans as Checkerboards: Calibrating Camera Motion Scale
 for World-Coordinate Human Mesh Recovery</a>
       <br>‪Fengyuan Yang, Kerui Gu, Ha Linh Nguyen, <b>Tze Ho Elden Tse</b>, Angela Yao
-      <br> arXiv, 2024
+      <br> ICCV, 2025
       <br> 
       <a href="https://arxiv.org/pdf/2407.00574">[pdf]</a>
       <a href="https://martayang.github.io/HAC/">[webpage]</a>
