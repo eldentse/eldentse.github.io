@@ -55,8 +55,8 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> ICCV, 2025
       <br> 
       <a href="https://arxiv.org/pdf/2504.09129">[pdf]</a>
-      <a href="">[code]</a>
-      <a href="">[webpage]</a>
+      <a href="https://github.com/eldentse/contrained-optimization-3dgs">[code]</a>
+      <a href="https://eldentse.github.io/contrained-optimization-3dgs/">[webpage]</a>
       <br> We present a contrained optimization approach for training Gaussian Splatting without COLMAP from multi-modal camera rig.
     </td>
   </tr>
