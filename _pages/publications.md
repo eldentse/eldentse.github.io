@@ -11,6 +11,22 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/PR_teaser.pdf" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">Video-Based Human Pose Estimation via Feature Decoupling and Multi-Hypothesis Calibration</a>
+      <br>‪Runyang Feng, <b>Tze Ho Elden Tse</b>, Haoming Chen, Hyung Jin Chang, Haifeng Zhong, Yixing Gao
+      <br> Pattern Recognition, 2025
+      <br> 
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325008544">[pdf]</a>
+      <a href="">[code]</a>
+      <a href="">[webpage]</a>
+      <br> We propose a new framework which explores mutual information-based feature decomposition and context-aware multi-hypothesis calibration for video-based human pose estimation.  </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/fig5_stage1_samples.jpg" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
