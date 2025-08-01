@@ -23,7 +23,7 @@ For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pd
 
 News
 -----
-* [07/2025] One paper are accepted to Pattern Recognition 2025!
+* [07/2025] One paper is accepted to Pattern Recognition 2025!
 * [06/2025] Four papers are accepted to ICCV 2025!
 * [12/2024] One paper is accepted to AAAI 2025!
 * [05/2024] I successfully defended my PhD! 

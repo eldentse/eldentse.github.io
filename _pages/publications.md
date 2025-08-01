@@ -11,7 +11,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="/images/PR_teaser.pdf" style=" vertical-align:middle" width="200" />
+      <img src="/images/PR_teaser-1.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">Video-Based Human Pose Estimation via Feature Decoupling and Multi-Hypothesis Calibration</a>
