@@ -27,6 +27,24 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/BMVC.gif" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">Improving Human Motion Plausibility
+with Body Momentum</a>
+      <br>‪Ha Linh Nguyen, <b>Tze Ho Elden Tse</b>, Angela Yao
+      <br> BMVC, 2025
+      <br> 
+      <a href="">[pdf]</a>
+      <a href="">[code]</a>
+      <a href="">[webpage]</a>
+      <br> We propose to use whole-body linear and angular momentum as a constraint to link local motion with global movement for global human motion recovery.
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/fig5_stage1_samples.jpg" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
