@@ -35,9 +35,9 @@ with Body Momentum</a>
       <br>‪Ha Linh Nguyen, <b>Tze Ho Elden Tse</b>, Angela Yao
       <br> BMVC, 2025
       <br> 
-      <a href="">[pdf]</a>
-      <a href="">[code]</a>
-      <a href="">[webpage]</a>
+      <a href="https://arxiv.org/pdf/2509.09496v1">[pdf]</a>
+      <a href="https://github.com/hlinhn/momentum_bmvc">[code]</a>
+      <a href="https://hlinhn.github.io/momentum_bmvc/">[webpage]</a>
       <br> We propose to use whole-body linear and angular momentum as a constraint to link local motion with global movement for global human motion recovery.
     </td>
   </tr>
