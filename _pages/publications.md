@@ -19,8 +19,6 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> arXiv, 2025
       <br> 
       <a href="https://arxiv.org/pdf/2509.16949?">[pdf]</a>
-      <a href="">[code]</a>
-      <a href="">[webpage]</a>
       <br> We present the first pre-training method for event-based 3D hand pose estimation using labeled RGB images and unpaired, unlabeled event data.  </td>
   </tr>
 
@@ -35,8 +33,6 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br> Pattern Recognition, 2025
       <br> 
       <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325008544">[pdf]</a>
-      <a href="">[code]</a>
-      <a href="">[webpage]</a>
       <br> We propose a new framework which explores mutual information-based feature decomposition and context-aware multi-hypothesis calibration for video-based human pose estimation.  </td>
   </tr>
 
