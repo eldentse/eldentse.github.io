@@ -16,7 +16,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">Leveraging RGB Images for Pre-Training of Event-Based Hand Pose Estimation</a>
       <br>‪Ruicong Liu, Takehiko Ohkawa, <b>Tze Ho Elden Tse</b>, Mingfang Zhang, Angela Yao, Yoichi Sato
-      <br> arXiv, 2025
+      <br> ICCVW, 2025
       <br> 
       <a href="https://arxiv.org/pdf/2509.16949?">[pdf]</a>
       <br> We present the first pre-training method for event-based 3D hand pose estimation using labeled RGB images and unpaired, unlabeled event data.  </td>
