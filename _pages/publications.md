@@ -86,7 +86,7 @@ with Body Momentum</a>
       <br> ICCV, 2025
       <br> 
       <a href="https://arxiv.org/pdf/2504.13621">[pdf]</a>
-      <a href="https://github.com/pengzhansun/EgoIntention">[code]</a>
+      <a href="https://github.com/pengzhansun/EgoIntention">[dataset & code]</a>
       <a href="">[webpage]</a>
       <br> We introduce the first dataset, named EgoIntention, for egocentric visual intention grounding. We also propose Reason-to-Grounding (RoG) instruction tuning, a model-agnostic training approach to enhance
      MLLMs for egocentric intention grounding.
