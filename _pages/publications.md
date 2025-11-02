@@ -149,12 +149,12 @@ for World-Coordinate Human Mesh Recovery</a>
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="/images/PR_teaser-1.png" style=" vertical-align:middle" width="200" />
+      <img src="/images/iccv25_RY.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
-      <a href="https://eldentse.github.io/publications/">Video-Based Human Pose Estimation via Feature Decoupling and Multi-Hypothesis Calibration</a>
+      <a href="https://eldentse.github.io/publications/">High-Resolution Spatiotemporal Modeling with Global-Local State Space Models for Video-Based Human Pose Estimation</a>
       <br>‪Runyang Feng, Hyung Jin Chang, <b>Tze Ho Elden Tse</b>, Boeun Kim, Yi Chang, Yixing Gao
-      <br> Pattern Recognition, 2025
+      <br> ICCV, 2025
       <br> 
       <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Feng_High-Resolution_Spatiotemporal_Modeling_with_Global-Local_State_Space_Models_for_Video-Based_ICCV_2025_paper.pdf">[pdf]</a>
       <br> We propose a new VHPE framework that extends Mamba (state space model) for modelling high-resolution spatiotemporal representations.  </td>
