@@ -141,8 +141,9 @@ for World-Coordinate Human Mesh Recovery</a>
       <br> ICCV, 2025
       <br> 
       <a href="https://arxiv.org/pdf/2407.00574">[pdf]</a>
-      <a href="https://martayang.github.io/HAC/">[webpage]</a>
-      <br> We present an optimization-free scale calibration framework for global human motion recovery. 
+      <a href="https://github.com/MartaYang/HumansAsCheckerboards">[code]</a>
+      <a href="https://martayang.github.io/HAC/">[webpage]</a> 
+      <br> We present a simple but effective optimization-free scale calibration framework for global human motion recovery. 
     </td>
   </tr>
 
