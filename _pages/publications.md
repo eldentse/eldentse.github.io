@@ -69,8 +69,6 @@ with Body Momentum</a>
       <br> arXiv, 2025
       <br> 
       <a href="https://arxiv.org/pdf/2506.00953?">[pdf]</a>
-      <a href="">[code]</a>
-      <a href="">[webpage]</a>
       <br> We propose a new Text-Instructed Generation and Refinement (TIGeR) framework for template-free hand and object reconstruction.  </td>
   </tr>
 
