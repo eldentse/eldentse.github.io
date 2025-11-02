@@ -23,6 +23,7 @@ For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pd
 
 News
 -----
+* [10/2025] I will be co-organising [HANDS](https://hands-workshop.org/workshop2025.html) workshop at ICCV 2025.
 * [07/2025] One paper is accepted to Pattern Recognition 2025!
 * [07/2025] One paper is accepted to BMVC 2025!
 * [06/2025] Four papers are accepted to ICCV 2025!
