@@ -15,7 +15,7 @@ I am currently a Postdoctoral Research Fellow at National University of Singapor
 
 <!-- My research interests lie within the areas of Computer Vision and Graph Neural Networks. I am particularly interested in 3D computer vision, especially perceiving everyday's human interaction with objects. -->
 
-My research interests lie at the intersection of computer vision and graphics. I am particularly interested in building a system that can capture and preceive how humans interact with the dynamic 3D world from everyday photographs and videos. 
+My research interests lie at the intersection of computer vision and graphics. I am particularly interested in building a system that can capture and perceive how humans interact with the dynamic 3D world from everyday photographs and videos. 
 
 I originally studied Engineering Science at New College, University of Oxford. My Master's thesis focused on acoustic perception in mobile robotics at [Oxford Robotics Institute](https://ori.ox.ac.uk/).
 
