@@ -62,7 +62,7 @@ with Body Momentum</a>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction</a>
       <br>‪Yiyao Huang, Zhedong Zheng, Ziwei Yu, Yaxiong Wang, <b>Tze Ho Elden Tse</b>, Angela Yao
-      <br> arXiv, 2025
+      <br> ICRA, 2026
       <br> 
       <a href="https://arxiv.org/pdf/2506.00953?">[pdf]</a>
       <br> We propose a new Text-Instructed Generation and Refinement (TIGeR) framework for template-free hand and object reconstruction.  </td>
