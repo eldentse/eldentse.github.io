@@ -11,7 +11,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="/images/cvpr_26_pgo.pdf" style=" vertical-align:middle" width="200" />
+      <img src="/images/cvpr_26_pgo.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization</a>
@@ -29,7 +29,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="/images/human_traj_cropped.pdf" style=" vertical-align:middle" width="200" />
+      <img src="/images/human_traj_cropped.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">HumanBA: Human-Aware Bundle Adjustment via Global Human-Camera Decoupling</a>
