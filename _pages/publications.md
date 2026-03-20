@@ -15,7 +15,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://eldentse.github.io/publications/">Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization</a>
-      <br>‪<b>Tze Ho Elden Tse$^*$</b>, Jizong Peng, Angela Yao
+      <br>‪<b>Tze Ho Elden Tse</b>, Jizong Peng, Angela Yao
       <br> CVPR, 2026 
       <br> 
       <a href="https://arxiv.org/pdf/2504.09129">[pdf]</a>
