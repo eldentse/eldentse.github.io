@@ -6,7 +6,43 @@ author_profile: true
 ---
 
 <h2>Research</h2>
-I'm broadly interested in computer vision and machine learning. Much of my research is about 3D vision, graph neural networks, hand-object interaction and robotics.
+I'm broadly interested in computer vision and machine learning. Much of my research is about 3D vision, 3D human body modelling and robotics.
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/cvpr_26_pgo.pdf" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization</a>
+      <br>‪<b>Tze Ho Elden Tse$^*$</b>, Jizong Peng, Angela Yao
+      <br> CVPR, 2026 
+      <br> 
+      <a href="https://arxiv.org/pdf/2504.09129">[pdf]</a>
+      <a href="https://github.com/eldentse/contrained-optimization-3dgs">[code]</a>
+      <a href="https://eldentse.github.io/contrained-optimization-3dgs/">[webpage]</a>
+      <br> We present a hybrid framework that integrates pose graph optimization (PGO) into ACE-Zero to refine camera poses and suppress incorrect refinements.
+    </td>
+  </tr>
+
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/human_traj_cropped.pdf" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://eldentse.github.io/publications/">HumanBA: Human-Aware Bundle Adjustment via Global Human-Camera Decoupling</a>
+      <br>‪Fengyuan Yang, Tanuj Sur, <b>Tze Ho Elden Tse</b>, Angela Yao
+      <br> CVPR, 2026
+      <br> 
+      <a href="https://arxiv.org/pdf/2407.00574">[pdf]</a>
+      <a href="https://github.com/MartaYang/HumansAsCheckerboards">[code]</a>
+      <a href="https://martayang.github.io/HAC/">[webpage]</a> 
+      <br> We present HumanBA, a human-aware bundle adjustment framework that transforms dynamic humans into usable constraints for global human recovery. 
+    </td>
+  </tr>
+
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
