@@ -36,7 +36,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br>‪Fengyuan Yang, Tanuj Sur, <b>Tze Ho Elden Tse</b>, Angela Yao
       <br> CVPR, 2026
       <br> 
-      <a href="https://arxiv.org/pdf/2407.00574">[pdf]</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_HumanBA_Human-Aware_Bundle_Adjustment_via_Global_Human-Camera_Decoupling_CVPR_2026_paper.pdf">[pdf]</a>
       <a href="https://github.com/MartaYang/HumansAsCheckerboards">[code]</a>
       <a href="https://martayang.github.io/HAC/">[webpage]</a> 
       <br> We present HumanBA, a human-aware bundle adjustment framework that transforms dynamic humans into usable constraints for global human recovery. 
