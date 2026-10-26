@@ -18,9 +18,9 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
       <br>‪<b>Tze Ho Elden Tse</b>, Jizong Peng, Angela Yao
       <br> CVPR, 2026 <span style="color: red;">[Highlight]</span>
       <br> 
-      <a href="https://arxiv.org/pdf/2504.09129">[pdf]</a>
-      <a href="https://github.com/eldentse/contrained-optimization-3dgs">[code]</a>
-      <a href="https://eldentse.github.io/contrained-optimization-3dgs/">[webpage]</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Tse_Learning_Scene_Coordinate_Reconstruction_from_Unposed_Images_via_Pose_Graph_CVPR_2026_paper.pdf">[pdf]</a>
+      <a href="https://github.com/eldentse/visual_localization_pgo_public">[code]</a>
+      <a href="https://eldentse.github.io/visual_localization_pgo_public/">[webpage]</a>
       <br> We present a hybrid framework that integrates pose graph optimization (PGO) into ACE-Zero to refine camera poses and suppress incorrect refinements.
     </td>
   </tr>
