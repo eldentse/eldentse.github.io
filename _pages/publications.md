@@ -11,11 +11,11 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
-      <img src="/images/affinegs_coffee_room,gif" style=" vertical-align:middle" width="200" />
+      <img src="/images/affinegs_coffee_room.gif" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
       <a href="https://arxiv.org/abs/2611.07709">AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectificationn</a>
-      <br>‪<b>Tze Ho Elden Tse</b>, Jizong Peng, Angela Yao
+      <br>‪<b>Tze Ho Elden Tse$^*$</b>, Jizong Peng$^*$, Richard Chen, Angela Yao
       <br> CVPR, 2026 <span style="color: red;">[Highlight]</span>
       <br> 
       <a href="https://arxiv.org/abs/2611.07709">[arXiv]</a>
