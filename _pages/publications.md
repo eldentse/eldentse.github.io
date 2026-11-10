@@ -16,7 +16,7 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
     <td style="align-items:center; border: none;">
       <a href="https://arxiv.org/abs/2611.07709">AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectificationn</a>
       <br>‪<b>Tze Ho Elden Tse$^*$</b>, Jizong Peng$^*$, Richard Chen, Angela Yao
-      <br> CVPR, 2026 <span style="color: red;">[Highlight]</span>
+      <br> NeurIPS, 2026 
       <br> 
       <a href="https://arxiv.org/abs/2611.07709">[arXiv]</a>
       <a href="https://github.com/eldentse/AffineGS">[code]</a>
