@@ -23,6 +23,7 @@ For full CV, download [[__pdf__](http://eldentse.github.io/files/Elden_TSE_CV.pd
 
 News
 -----
+* [09/2026] One paper is accepted to NeurIPS 2026!
 * [02/2026] Two papers are accepted to CVPR 2026!
 * [02/2026] One paper is accepted to ICRA 2026!
 * [10/2025] I will be co-organising [HANDS](https://hands-workshop.org/workshop2025.html) workshop at ICCV 2025.

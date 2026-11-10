@@ -11,6 +11,23 @@ I'm broadly interested in computer vision and machine learning. Much of my resea
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="align-items:center; width: 25%; border: none;">
+      <img src="/images/affinegs_coffee_room,gif" style=" vertical-align:middle" width="200" />
+    </td>
+    <td style="align-items:center; border: none;">
+      <a href="https://arxiv.org/abs/2611.07709">AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectificationn</a>
+      <br>‪<b>Tze Ho Elden Tse</b>, Jizong Peng, Angela Yao
+      <br> CVPR, 2026 <span style="color: red;">[Highlight]</span>
+      <br> 
+      <a href="https://arxiv.org/abs/2611.07709">[arXiv]</a>
+      <a href="https://github.com/eldentse/AffineGS">[code]</a>
+      <a href="https://eldentse.github.io/AffineGS/">[webpage]</a>
+      <br> Depth-guided 3DGS aligns monocular depth with one global scale & shift, but its errors vary region by region, so the geometry warps. We fix this with spatially varying affine fields, with no sensor-depth supervision.
+    </td>
+  </tr>
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="align-items:center; width: 25%; border: none;">
       <img src="/images/cvpr_26_pgo.png" style=" vertical-align:middle" width="200" />
     </td>
     <td style="align-items:center; border: none;">
